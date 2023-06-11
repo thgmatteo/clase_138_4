@@ -1,0 +1,30 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.big_image
+{
+    width: 100%;
+
+}
+#start
+{
+    font-size: 25px;
+    
+}
+#status
+{
+    font-size: 20px;
+}
+h4
+{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
+.instruccion_image
+{
+    display: inline-block;
+    width: 45%;
+}
